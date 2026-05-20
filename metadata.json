@@ -1,0 +1,6 @@
+{
+  "name": "Smart Space Rental",
+  "description": "ระบบจัดการพื้นที่และห้องประชุมที่แยกสองฝั่งอย่างเป็นระบบ ฝั่งจองลูกค้า (Customer) และฝั่งแอดมินจัดการหลังบ้าน (Back Office)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
